@@ -1,0 +1,18 @@
+html,body{
+  height: 100%;
+}
+
+body {
+  background-image: url('./images/pokeBack.png');
+  background-repeat: repeat;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex-shrink: 0;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "image": "https://img.pokemondb.net/sprites/x-y/normal/bulbasaur.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "charizard",
+    "image": "https://img.pokemondb.net/sprites/x-y/normal/charizard.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "charmander",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/charmander.png",
+    "clicked": "false"
+  },
+  {
+    "id": 4,
+    "name": "ditto",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/ditto.png",
+    "clicked": "false"
+  },
+  {
+    "id": 5,
+    "name": "dragonite",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/dragonite.png",
+    "clicked": "false"
+  },
+  {
+    "id": 6,
+    "name": "eevee",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/eevee.png",
+    "clicked": "false"
+  },
+  {
+    "id": 7,
+    "name": "ekans",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/ekans.png",
+    "clicked": "false"
+  },
+  {
+    "id": 8,
+    "name": "gengar",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/gengar.png",
+    "clicked": "false"
+  },
+  {
+    "id": 9,
+    "name": "grimer",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/grimer.png",
+    "clicked": "false"
+  },
+  {
+    "id": 10,
+    "name": "gyarados",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/gyarados.png",
+    "clicked": "false"
+  },
+  {
+    "id": 11,
+    "name": "jigglypuff",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/jigglypuff.png",
+    "clicked": "false"
+  },
+  {
+    "id": 12,
+    "name": "magikarp",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/magikarp.png",
+    "clicked": "false"
+  },
+  {
+    "id": 13,
+    "name": "magnemite",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/magnemite.png",
+    "clicked": "false"
+  },
+  {
+    "id": 14,
+    "name": "meowth",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/meowth.png",
+    "clicked": "false"
+  },
+  {
+    "id": 15,
+    "name": "pikachu",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/pikachu.png",
+    "clicked": "false"
+  },
+  {
+    "id": 16,
+    "name": "psyduck",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/psyduck.png",
+    "clicked": "false"
+  },
+  {
+    "id": 17,
+    "name": "snorlax",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/snorlax.png",
+    "clicked": "false"
+  },
+  {
+    "id": 18,
+    "name": "squirtle",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/squirtle.png",
+    "clicked": "false"
+  },
+  {
+    "id": 19,
+    "name": "voltorb",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/voltorb.png",
+    "clicked": "false"
+  },
+  {
+    "id": 20,
+    "name": "zubat",
+    "image":"https://img.pokemondb.net/sprites/x-y/normal/zubat.png",
+    "clicked": "false"
+  }
+]
